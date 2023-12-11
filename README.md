@@ -9,7 +9,7 @@
    **.NET , OS  and Problem-solving**
 
 - 💬 Ask me about
-   **CP, .NET, C++**
+   **CP, C#, C++**
 
 - 📫 How to reach me **marwanghanem0000@gmail.com**
 
