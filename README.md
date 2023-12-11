@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrwanasem" target="blank"><img src="https://img.shields.io/twitter/follow/mrwanasem?logo=twitter&style=for-the-badge" alt="mrwanasem" /></a> </p>
 
-- 🌱 I’m currently learning **.NET,OS, Database System and Problem solving**
+- 🌱 I’m currently learning
+   **.NET , OS  and Problem-solving**
 
-- 💬 Ask me about **CP , .NET , C++**
+- 💬 Ask me about
+   **CP, .NET, C++**
 
 - 📫 How to reach me **marwanghanem0000@gmail.com**
 
