@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan Asem</h1>
 <h3 align="center">I am study Computer Science & Engineering, Interested in Back-end Engineering ,Database and CP..</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwan-asem&label=Profile%20views&color=0e75b6&style=flat" alt="marwan-asem" /> </p>
 
 
 - 🌱 I’m currently learning
