@@ -5,7 +5,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, C, C++, C#, Python, JavaScript, HTML, CSS  
+- **Languages**: Java, C, C++, C#, Python, JavaScript, JS
 - **Backend**: Spring Boot  
 - **Tools**: Git, GitHub, Bash, Linux  
 - **UI/UX**: Figma (basic), Adobe XD, CSS  
