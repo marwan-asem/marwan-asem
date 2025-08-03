@@ -2,7 +2,9 @@
 
  I'm a Computer Science student with a strong focus on backend development, operating systems, and data structures & algorithms.  
  I enjoy solving problems, building tools, and constantly learning new technologies.
+ 
  I love coding in general and building innovative projects. Always up for new challenges and excited about exploring different technologies.
+ 
  Participate in competitive programming challenges to enhance problem-solving skills and stay sharp in algorithmic thinking.
 
 ## 🛠️ Tech Stack
