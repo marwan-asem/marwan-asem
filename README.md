@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marwan Asem
+# 👋 Hi, I'm Marwan Ghanem
 
  I'm a Computer Science student with a strong focus on backend development, operating systems, and data structures & algorithms.  
  I enjoy solving problems, building tools, and constantly learning new technologies.
