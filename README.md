@@ -17,8 +17,8 @@
 
 ## 📬 How to reach me
 
-- 📧 **Email**: marwanghanem0000@gmail.com  
-- 💬 **LinkedIn**: [linkedin.com/in/marwan-asem-b5b4491a6/](https://www.linkedin.com/in/marwan-asem-b5b4491a6/)  
+- 📧 **Email**: marwan.a.ghanem@gmail.com  
+- 💬 **LinkedIn**: [linkedin.com/in/marwan-asem-b5b4491a6/](https://www.linkedin.com/in/marwan-a-ghanem-b18b1423a/)  
 - 💻 **GitHub**: You're already here! 😄  
 
 ## 📈 GitHub Stats (Optional)
