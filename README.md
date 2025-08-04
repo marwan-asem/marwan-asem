@@ -18,7 +18,7 @@
 ## 📬 How to reach me
 
 - 📧 **Email**: marwan.a.ghanem@gmail.com  
-- 💬 **LinkedIn**: [Marwan A. Ghanem](https://www.linkedin.com/in/marwan-a-ghanem-b18b1423a/)  
+- 💬 **LinkedIn**: [Marwan A. Ghanem](https://www.linkedin.com/in/marwan-a-ghanem-swe/)  
 - 💻 **GitHub**: You're already here! 😄  
 
 ## 📈 GitHub Stats (Optional)
