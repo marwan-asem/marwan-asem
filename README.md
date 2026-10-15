@@ -1,31 +1,68 @@
-# 👋 Hi, I'm Marwan Ghanem
+# Hi, I'm Marwan Ghanem
 
- I'm a Computer Science student with a strong focus on backend development, operating systems, and data structures & algorithms.  
- I enjoy solving problems, building tools, and constantly learning new technologies.
- 
- I love coding in general and building innovative projects. Always up for new challenges and excited about exploring different technologies.
- 
- Participate in competitive programming challenges to enhance problem-solving skills and stay sharp in algorithmic thinking.
+**Computer Engineering Graduate | IT Infrastructure & Technical Support | Systems & Networking**
 
-## 🛠️ Tech Stack
+I'm a Computer Engineering graduate from the Faculty of Electronic Engineering, Menoufia University (2026), with a strong foundation in operating systems, computer networks, programming, and problem-solving.
 
-- **Languages**: Java, C, C++, C#, Python, JavaScript, JS
-- **Backend**: Spring Boot  
-- **Tools**: Git, GitHub, Bash, Linux  
-- **UI/UX**: Figma (basic), Adobe XD, CSS  
-- **Other**: MySQL, basic OS concepts
+I'm currently focused on building my career in **IT Support and infrastructure**, with a longer-term interest in **system administration and cloud technologies**. I enjoy understanding how systems work, diagnosing technical problems, and making technology reliable for the people who use it.
 
-## 📬 How to reach me
+My software engineering background helps me approach infrastructure challenges with a structured, analytical mindset.
 
-- 📧 **Email**: marwan.a.ghanem@gmail.com  
-- 💬 **LinkedIn**: [Marwan A. Ghanem](https://www.linkedin.com/in/marwan-a-ghanem-swe/)  
-- 💻 **GitHub**: You're already here! 😄  
+## Areas of Focus
 
-## 📈 GitHub Stats (Optional)
+- **IT Support & Troubleshooting:** Windows environments, hardware/software issues, and systematic problem diagnosis
+- **Networking:** TCP/IP, network fundamentals, connectivity troubleshooting, and network tools
+- **Systems Administration:** Windows and Linux environments, user and system management fundamentals
+- **Infrastructure & Virtualization:** Hands-on IT labs and an interest in reliable, maintainable systems
+- **Automation & Development:** Scripting and programming to simplify technical tasks
 
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwan-asem&show_icons=true&theme=default)
+## Technical Skills
+
+| Area | Technologies & Knowledge |
+| --- | --- |
+| Operating Systems | Windows, Linux |
+| Networking | TCP/IP, computer networking, network troubleshooting |
+| Programming & Scripting | C++, Python, Java, Bash |
+| Containers | Docker |
+| Databases | SQL |
+| Development Tools | Git, GitHub |
+| Computer Science Foundations | Operating Systems, Data Structures & Algorithms, OOP, Databases |
+
+## Selected Projects
+
+### SmartAttend AI
+A university attendance-system project exploring multiple approaches to student attendance, including face recognition and dynamic QR codes.
+
+### Compilers Lexer
+A lexer project that analyzes C source code and identifies lexical tokens, including their positions in the source.
+
+*I also practice infrastructure and troubleshooting skills through hands-on labs. I’ll document and share selected labs as they develop.*
+
+## Competitive Programming & Teaching
+
+- Solved **800+ competitive programming problems** across online platforms.
+- Participated in **ICPC** activities and competitions (2022, 2023, 2026).
+- Have experience helping students learn programming and problem-solving concepts.
+
+## Currently Learning & Building
+
+- Deepening practical IT Support and Windows administration skills
+- Strengthening networking knowledge and troubleshooting techniques
+- Developing system administration skills across Windows and Linux
+- Building toward a future specialization in cloud infrastructure
+
+## Education
+
+**B.Sc. in Computer Engineering**  
+Faculty of Electronic Engineering, Menoufia University  
+**Graduated:** 2026 · **Overall grade:** Very Good
+
+## Connect
+
+- **Email:** [marwan.a.ghanem@gmail.com](mailto:marwan.a.ghanem@gmail.com)
+- **LinkedIn:** [Marwan A. Ghanem](https://www.linkedin.com/in/marwan-a-ghanem-swe/)
+- **GitHub:** [marwan-asem](https://github.com/marwan-asem)
 
 ---
 
-_Always open to learning, collaborating, and building something meaningful._
-
+*Interested in practical engineering, reliable systems, continuous learning, and solving meaningful technical problems.*
